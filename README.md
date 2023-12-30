@@ -6,6 +6,7 @@ A Morse code generator developed using MATLAB is a versatile tool capable of per
 ALGORITHM: 
 Below is a structured algorithmic description of the provided MATLAB program for converting text to Morse code, decoding Morse code, and generating Morse code sounds:
 Algorithm: Text to Morse Code Converter and Decoder
+
 Step 1: Load the 'data.mat' file containing Morse code definitions.
 
 Step 2: Initialize the input text as 'in_text' (e.g., 'Shayu').
